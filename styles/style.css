@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,600&family=Nunito:wght@500&family=Rubik&family=Ubuntu&display=swap");
 body {
   font-family: 'Rubik',sans-serif;
+  scroll-behaviour: smooth;
 }
 a {
   text-decoration: none;
