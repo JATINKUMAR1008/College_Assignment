@@ -24,28 +24,28 @@ let project_list = [
     name: "Book Store",
     desc: "A simple book store website built using React.js and Python 'Flask' for API and handles using DevOps.",
     tech: ["web Design", "DevOps", "React.js", "Python"],
-    imgUrl: "/College_Assignment/images/mp1.png",
+    imgUrl: "/images/mp1.png",
     link: "https://github.com/JATINKUMAR1008/Book--store.git"
   },
   {
     name: "Music App",
     desc: "A simple Music App website built using React.js and Rapid API for data.",
     tech: ["web Design", "API", "React.js"],
-    imgUrl: "/College_Assignment/images/music.png",
+    imgUrl: "/images/music.png",
     link:"https://testing-26912.web.app/"
   },
   {
     name: "Todo App",
     desc: "A simple Todo App website built using React.js and Firebase for data storage and authentication.",
     tech: ["web Design", "Firebase", "React.js"],
-    imgUrl: "/College_Assignment/images/todo.png",
+    imgUrl: "/images/todo.png",
     link:"https://triluxo-daad9.web.app/"
   },
   {
     name: "Netflix Clone",
     desc: "A simple Clone of Netflix website built using React.js and IMwD API for movie database.",
     tech: ["web Design", "React.js"],
-    imgUrl: "/College_Assignment/images/netflix.png",
+    imgUrl: "/images/netflix.png",
     link:"https://netflix-copy-f52b6.web.app/"
   },
 ];
